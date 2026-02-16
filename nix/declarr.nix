@@ -10,7 +10,7 @@
     src = fetchFromGitHub {
       owner = "Dictionarry-Hub";
       repo = "profilarr";
-      rev = "main";
+      tag = "v1.1.3"
       hash = "sha256-sTQDu8RR+x09BMki/+/PiSy56Inwfu4b+/h81S//Ecs=";
     };
 
