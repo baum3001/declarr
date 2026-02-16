@@ -11,7 +11,7 @@
       owner = "Dictionarry-Hub";
       repo = "profilarr";
       tag = "v1.1.3";
-      hash = "sha256-sTQDu8RR+x09BMki/+/PiSy56Inwfu4b+/h81S//Ecs=";
+      hash = "sha256-aYYfMJSN76h625j/pda0G93de+c21wGIxYaeylVfq98=";
     };
 
     unpackPhase = ''
